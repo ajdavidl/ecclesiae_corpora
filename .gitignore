@@ -4,3 +4,5 @@ es*M*.json
 it*M*.json
 fr*M*.json
 
+.python-version
+chromedriver
