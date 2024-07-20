@@ -2,8 +2,6 @@ from dash import Dash, html, dcc, callback, Output, Input
 import plotly.express as px
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminder_unfiltered.csv')
-
 df_pt = pd.read_json('../../../papae_verba/pt.json').T
 df_en = pd.read_json('../../../papae_verba/en.json').T
 citations = df_pt.index
