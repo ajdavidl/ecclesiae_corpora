@@ -1,14 +1,36 @@
+# Generalis
+- [Alexandria católica](https://alexandriacatolica.blogspot.com/)
+- [Bíblia Católica](https://www.bibliacatolica.com.br/)
+- [Biblioteca Católica](https://bibliotecacatolica.org/)
 - [BIBLIOTHEQUE-CATHOLIQUE](https://www.bibliotheque-catholique.com/)
 - [Bibliothèque du patrimoine chrétien](https://patrimoinechretien.com/index.html)
+- [Católico Orante](https://www.catolicoorante.com.br/)
 - [CELIP - CENTRO DE ESTUDOS DE LITERATURA PATRÍSTICA](https://www.patristica.com.br/)
-- [Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)](https://opengreekandlatin.github.io/csel-dev/) [github](https://github.com/OpenGreekAndLatin/csel-dev)
+- [Christ-Roi](https://christ-roi.net/index.php/Accueil)
+- [Cristianismo.org](https://cristianismo.org.br/) [it](https://cristianismo.org.br/italia/index.htm)
+- [Divinum Officium Project](https://www.divinumofficium.com/) [Github](https://github.com/DivinumOfficium/divinum-officium)
+- [Documenta Catholica Omnia](https://www.documentacatholicaomnia.eu/)
+- [Enciclopedia Mercabá](https://www.mercaba.org/)
+- [Escrivá](https://escriva.org/pt-br/) [en](https://escriva.org/en/) [es](https://escriva.org/es/) [fr](https://escriva.org/fr/)
+- [Liturgia dária](https://liturgia.cancaonova.com/pb/) [es](https://liturgia.cancaonova.com/es/)
+- [Liturgia das Horas Online](https://liturgiadashoras.online/)
+- [Liturgia](https://liturgia.pt/)
+- [Obras Católicas](https://obrascatolicas.com/editorarealeza/)
 - [Patristics](https://patristics.info/)
 - [Patrologia Graeca](https://www.roger-pearse.com/weblog/patrologia-graeca-pg-pdfs/)
+- [Permanência](https://www.permanencia.org.br/drupal/)
+- [Preces Latinae](https://www.preces-latinae.org/index.htm)
+- [Rumo à santidade](https://rumoasantidade.com.br/)
+- [Vatican](https://www.vatican.va/content/vatican/pt.html) [en](https://www.vatican.va/content/vatican/en.html)
+- [Vatican News](https://www.vaticannews.va/pt.html) [en](https://www.vaticannews.va/en.html) [es](https://www.vaticannews.va/es.html) [it](https://www.vaticannews.va/it.html) [fr](https://www.vaticannews.va/fr.html)
 
 # Corpus
 - [Corpus Corporum project](https://mlat.uzh.ch/home)
+- [Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)](https://opengreekandlatin.github.io/csel-dev/) [github](https://github.com/OpenGreekAndLatin/csel-dev)
+- [Corpus Thomisticum](https://www.corpusthomisticum.org/)
 - [Perseus](https://scaife.perseus.org/library/)
 - [Perseus Collection Greek and Roman Materials](https://www.perseus.tufts.edu/hopper/)
+- [The latin library](https://www.thelatinlibrary.com/)
 
 # Nuntii
 
