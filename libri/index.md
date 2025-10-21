@@ -3,6 +3,7 @@
 - [Catena Aurea - Exposición del Evangelio según san Marcos](https://hjg.com.ar/catena/c284.html)
 - [Catena Aurea - Exposición del Evangelio según san Lucas](https://hjg.com.ar/catena/c390.html)
 - [Catena Aurea - Exposición del Evangelio según san Juan](https://hjg.com.ar/catena/c637.html)
+- [Ofício Divino](https://www.liturgia.pt/lh/pdf/000LH_Abrev.pdf)
 
 # Bibliothecae
 - [Alexandria católica](https://alexandriacatolica.blogspot.com/)
