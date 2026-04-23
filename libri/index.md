@@ -7,11 +7,13 @@
 
 # Bibliothecae
 - [Alexandria católica](https://alexandriacatolica.blogspot.com/)
+- [Acervo Católico](https://acervocatolico.com/detalhesLivros)
 - [Biblioteca Católica](https://bibliotecacatolica.org/)
 - [BIBLIOTHEQUE-CATHOLIQUE](https://www.bibliotheque-catholique.com/)
 - [Bibliothèque du patrimoine chrétien](https://patrimoinechretien.com/index.html)
 - [Bibliothèque Christ Roi](https://christ-roi.net/index.php/Biblioth%C3%A8que)
 - [Corpus Thomisticum](https://www.corpusthomisticum.org/)
+- [Early Christian Writings](https://www.earlychristianwritings.com/index.html)
 - [Escrivá](https://escriva.org/pt-br/) [en](https://escriva.org/en/) [es](https://escriva.org/es/) [fr](https://escriva.org/fr/)
 - [Livros católicos](https://rumoasantidade.com.br/livros-catolicos-online-para-ler/)
 - [Obras da Patrística](https://www.patristica.com.br/obras/)
