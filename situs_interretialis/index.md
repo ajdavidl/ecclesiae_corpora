@@ -45,7 +45,10 @@
 # Nuntii
 
 - [ACI Digital](https://www.acidigital.com/)
+- [Ad Vaticanum](https://advaticanum.com/)
 - [La Nuova Bussola Quotidiana](https://lanuovabq.it/it)
 - [Morning Star News](https://morningstarnews.org/)
 - [OSV News](https://www.osvnews.com/)
+- [Premier Christianity Magazine](https://www.premierchristianity.com/)
+- [Premier Christian News](https://premierchristian.news/)
 - [Vatican News](https://www.vaticannews.va/pt.html) [en](https://www.vaticannews.va/en.html) [es](https://www.vaticannews.va/es.html) [it](https://www.vaticannews.va/it.html) [fr](https://www.vaticannews.va/fr.html)

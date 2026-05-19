@@ -3,6 +3,8 @@
 - [Catena Aurea - Exposición del Evangelio según san Marcos](https://hjg.com.ar/catena/c284.html)
 - [Catena Aurea - Exposición del Evangelio según san Lucas](https://hjg.com.ar/catena/c390.html)
 - [Catena Aurea - Exposición del Evangelio según san Juan](https://hjg.com.ar/catena/c637.html)
+- [JesuCristo y la vida cristiana - Padre Antonio Royo Marín](https://archive.org/details/jesucristo-y-a-vida-cristiana)
+- [La Vida Religiosa - Padre Antonio Royo Marín](https://archive.org/details/LaVidaReligiosa/La%20Vida%20Religiosa%20-%20Royo%20Marin%2C%20Antonio%2C%20O.P_/mode/2up)
 - [Ofício Divino](https://www.liturgia.pt/lh/pdf/000LH_Abrev.pdf)
 
 # Bibliothecae
@@ -19,3 +21,5 @@
 - [Obras da Patrística](https://www.patristica.com.br/obras/)
 - [Obras Católicas](https://obrascatolicas.com/editorarealeza/biblioteca-digital/)
 - [St. Thomas Aquinas’s Works in English](https://isidore.co/aquinas/)
+- [The Latin Library - Christian Latin](https://www.thelatinlibrary.com/christian.html)
+    - [Augustine](https://www.thelatinlibrary.com/august.html)
