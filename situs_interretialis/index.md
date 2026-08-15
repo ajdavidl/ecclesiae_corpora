@@ -17,6 +17,7 @@
 - [Escrivá](https://escriva.org/pt-br/) [en](https://escriva.org/en/) [es](https://escriva.org/es/) [fr](https://escriva.org/fr/)
 - [Evangeli net](https://evangeli.net/evangelho)
 - [iBreviary](https://www.ibreviary.org/en/)
+- [Lírio Católico](https://www.liriocatolico.com.br/)
 - [Liturgia](https://liturgia.pt/)
 - [Liturgia dária](https://liturgia.cancaonova.com/pb/) [es](https://liturgia.cancaonova.com/es/)
 - [Liturgia das Horas](https://www.liturgia.pt/lh/)
